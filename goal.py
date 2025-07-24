@@ -19,7 +19,7 @@ if theme == "🌞 Light Mode":
 else:
     bg_gradient = "linear-gradient(to right, #232526, #414345)"
     card_color = "#333333cc"
-    text_color = "#ffffff"
+    text_color = "#484444"
 
 # --- Inject CSS ---
 st.markdown(f"""
